@@ -1,0 +1,18 @@
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\bin\Debug\Converting.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\bin\Debug\Converting.pdb
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\bin\Debug\Converting.xml
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\Converting.Resources.resources
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\Converting.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\Converting.xml
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\Converting.pdb
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\bin\Debug\Converting.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\bin\Debug\Converting.pdb
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\bin\Debug\Converting.xml
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\Converting.Resources.resources
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\Converting.vbproj.GenerateResource.Cache
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\Converting.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\Converting.xml
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson4\Exercise2\Completed\VB\Converting\obj\Debug\Converting.pdb

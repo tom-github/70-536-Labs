@@ -1,0 +1,5 @@
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise1\Completed\CS\BrowseFileSystem\bin\Debug\BrowseFileSystem.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise1\Completed\CS\BrowseFileSystem\bin\Debug\BrowseFileSystem.pdb
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise1\Completed\CS\BrowseFileSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise1\Completed\CS\BrowseFileSystem\obj\Debug\BrowseFileSystem.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise1\Completed\CS\BrowseFileSystem\obj\Debug\BrowseFileSystem.pdb
