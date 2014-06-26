@@ -1,4 +1,0 @@
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\TrustedClass\bin\Debug\TrustedClass.dll
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\TrustedClass\bin\Debug\TrustedClass.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\TrustedClass\obj\Debug\TrustedClass.dll
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\TrustedClass\obj\Debug\TrustedClass.pdb

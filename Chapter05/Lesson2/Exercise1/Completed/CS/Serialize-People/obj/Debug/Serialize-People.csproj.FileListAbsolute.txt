@@ -1,4 +1,0 @@
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter05\Lesson2\Exercise1\Completed\CS\Serialize-People\bin\Debug\Serialize-People.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter05\Lesson2\Exercise1\Completed\CS\Serialize-People\bin\Debug\Serialize-People.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter05\Lesson2\Exercise1\Completed\CS\Serialize-People\obj\Debug\Serialize-People.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter05\Lesson2\Exercise1\Completed\CS\Serialize-People\obj\Debug\Serialize-People.pdb

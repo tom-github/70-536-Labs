@@ -1,5 +1,0 @@
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\bin\Debug\Converting.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\bin\Debug\Converting.pdb
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\obj\Debug\Converting.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\obj\Debug\Converting.pdb

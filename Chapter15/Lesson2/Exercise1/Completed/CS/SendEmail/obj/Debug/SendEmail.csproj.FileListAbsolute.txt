@@ -1,7 +1,0 @@
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter15\Lesson2\Exercise1\Completed\CS\SendEmail\bin\Debug\SendEmail.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter15\Lesson2\Exercise1\Completed\CS\SendEmail\bin\Debug\SendEmail.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter15\Lesson2\Exercise1\Completed\CS\SendEmail\obj\Debug\SendEmail.Form1.resources
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter15\Lesson2\Exercise1\Completed\CS\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter15\Lesson2\Exercise1\Completed\CS\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.Cache
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter15\Lesson2\Exercise1\Completed\CS\SendEmail\obj\Debug\SendEmail.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter15\Lesson2\Exercise1\Completed\CS\SendEmail\obj\Debug\SendEmail.pdb

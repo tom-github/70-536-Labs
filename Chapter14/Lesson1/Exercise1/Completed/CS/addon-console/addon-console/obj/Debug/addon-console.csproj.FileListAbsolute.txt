@@ -1,4 +1,0 @@
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-console\addon-console\bin\Debug\addon-console.dll
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-console\addon-console\bin\Debug\addon-console.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-console\addon-console\obj\Debug\addon-console.dll
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-console\addon-console\obj\Debug\addon-console.pdb

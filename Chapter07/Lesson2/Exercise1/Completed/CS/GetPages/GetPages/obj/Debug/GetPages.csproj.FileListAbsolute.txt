@@ -1,4 +1,0 @@
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter07\Lesson2\Exercise1\Completed\CS\GetPages\GetPages\bin\Debug\GetPages.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter07\Lesson2\Exercise1\Completed\CS\GetPages\GetPages\bin\Debug\GetPages.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter07\Lesson2\Exercise1\Completed\CS\GetPages\GetPages\obj\Debug\GetPages.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter07\Lesson2\Exercise1\Completed\CS\GetPages\GetPages\obj\Debug\GetPages.pdb

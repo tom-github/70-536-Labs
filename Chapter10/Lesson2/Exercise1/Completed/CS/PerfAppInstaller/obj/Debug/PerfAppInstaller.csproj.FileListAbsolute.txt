@@ -1,4 +1,0 @@
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter10\Lesson2\Exercise1\Completed\CS\PerfAppInstaller\bin\Debug\PerfAppInstaller.dll
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter10\Lesson2\Exercise1\Completed\CS\PerfAppInstaller\bin\Debug\PerfAppInstaller.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter10\Lesson2\Exercise1\Completed\CS\PerfAppInstaller\obj\Debug\PerfAppInstaller.dll
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter10\Lesson2\Exercise1\Completed\CS\PerfAppInstaller\obj\Debug\PerfAppInstaller.pdb

@@ -1,5 +1,0 @@
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\bin\Debug\List-Value-Types.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\bin\Debug\List-Value-Types.pdb
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\List-Value-Types.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\List-Value-Types.pdb

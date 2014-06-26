@@ -1,5 +1,0 @@
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson3\Exercise1\Completed\CS\CreateStruct\bin\Debug\CreateStruct.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson3\Exercise1\Completed\CS\CreateStruct\bin\Debug\CreateStruct.pdb
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson3\Exercise1\Completed\CS\CreateStruct\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson3\Exercise1\Completed\CS\CreateStruct\obj\Debug\CreateStruct.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson3\Exercise1\Completed\CS\CreateStruct\obj\Debug\CreateStruct.pdb

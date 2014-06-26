@@ -1,9 +1,0 @@
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise2\Completed\CS\WatchFileSystem\bin\Debug\WatchFileSystem.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise2\Completed\CS\WatchFileSystem\bin\Debug\WatchFileSystem.pdb
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise2\Completed\CS\WatchFileSystem\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise2\Completed\CS\WatchFileSystem\obj\Debug\WatchFileSystem.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter02\Lesson1\Exercise2\Completed\CS\WatchFileSystem\obj\Debug\WatchFileSystem.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter02\Lesson1\Exercise2\Completed\CS\WatchFileSystem\bin\Debug\WatchFileSystem.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter02\Lesson1\Exercise2\Completed\CS\WatchFileSystem\bin\Debug\WatchFileSystem.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter02\Lesson1\Exercise2\Completed\CS\WatchFileSystem\obj\Debug\WatchFileSystem.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter02\Lesson1\Exercise2\Completed\CS\WatchFileSystem\obj\Debug\WatchFileSystem.pdb

@@ -1,9 +1,0 @@
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter03\Lesson1\Exercise1\Completed\CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter03\Lesson1\Exercise1\Completed\CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.pdb
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter03\Lesson1\Exercise1\Completed\CS\Lesson1-Exercise1-CS\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter03\Lesson1\Exercise1\Completed\CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.exe
-C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter03\Lesson1\Exercise1\Completed\CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter03\Lesson1\Exercise1\Completed\CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter03\Lesson1\Exercise1\Completed\CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter03\Lesson1\Exercise1\Completed\CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter03\Lesson1\Exercise1\Completed\CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.pdb

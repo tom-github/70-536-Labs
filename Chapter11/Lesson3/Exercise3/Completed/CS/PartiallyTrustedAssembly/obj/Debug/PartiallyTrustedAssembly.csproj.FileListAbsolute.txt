@@ -1,7 +1,0 @@
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\PartiallyTrustedAssembly\bin\Debug\PartiallyTrustedAssembly.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\PartiallyTrustedAssembly\bin\Debug\PartiallyTrustedAssembly.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\PartiallyTrustedAssembly\bin\Debug\TrustedClass.dll
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\PartiallyTrustedAssembly\bin\Debug\TrustedClass.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\PartiallyTrustedAssembly\obj\Debug\PartiallyTrustedAssembly.csprojResolveAssemblyReference.cache
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\PartiallyTrustedAssembly\obj\Debug\PartiallyTrustedAssembly.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson3\Exercise3\Completed\CS\PartiallyTrustedAssembly\obj\Debug\PartiallyTrustedAssembly.pdb

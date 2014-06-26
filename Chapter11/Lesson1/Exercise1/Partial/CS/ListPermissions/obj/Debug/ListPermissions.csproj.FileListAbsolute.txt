@@ -1,4 +1,0 @@
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson1\Exercise1\Partial\CS\ListPermissions\bin\Debug\ListPermissions.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson1\Exercise1\Partial\CS\ListPermissions\bin\Debug\ListPermissions.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson1\Exercise1\Partial\CS\ListPermissions\obj\Debug\ListPermissions.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter11\Lesson1\Exercise1\Partial\CS\ListPermissions\obj\Debug\ListPermissions.pdb

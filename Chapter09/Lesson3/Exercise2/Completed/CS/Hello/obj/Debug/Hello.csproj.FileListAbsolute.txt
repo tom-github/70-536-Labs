@@ -1,6 +1,0 @@
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter09\Lesson3\Exercise2\Completed\CS\Hello\bin\Debug\Hello.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter09\Lesson3\Exercise2\Completed\CS\Hello\bin\Debug\Hello.pdb
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter09\Lesson3\Exercise2\Completed\CS\Hello\obj\Debug\Hello.Properties.Resources.resources
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter09\Lesson3\Exercise2\Completed\CS\Hello\obj\Debug\Hello.csproj.GenerateResource.Cache
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter09\Lesson3\Exercise2\Completed\CS\Hello\obj\Debug\Hello.exe
-C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter09\Lesson3\Exercise2\Completed\CS\Hello\obj\Debug\Hello.pdb
