@@ -1,0 +1,6 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Common Reference Types\obj\Debug\Using Common Reference Types.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Common Reference Types\bin\Debug\Using Common Reference Types.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Common Reference Types\bin\Debug\Using Common Reference Types.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Common Reference Types\bin\Debug\Using Common Reference Types.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Common Reference Types\obj\Debug\Using Common Reference Types.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Common Reference Types\obj\Debug\Using Common Reference Types.pdb

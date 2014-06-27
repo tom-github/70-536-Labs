@@ -1,0 +1,16 @@
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\bin\Debug\addon-dialog.dll
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\bin\Debug\addon-dialog.pdb
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\bin\Debug\addon-dialog.xml
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon_dialog.Resources.resources
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon-dialog.vbproj.GenerateResource.Cache
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon-dialog.dll
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon-dialog.xml
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon-dialog.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\bin\Debug\addon-dialog.dll
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\bin\Debug\addon-dialog.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\bin\Debug\addon-dialog.xml
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon_dialog.Resources.resources
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon-dialog.vbproj.GenerateResource.Cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon-dialog.dll
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon-dialog.xml
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter14\Lesson1\Exercise1\Completed\CS\addon-dialog\addon-dialog\obj\Debug\addon-dialog.pdb

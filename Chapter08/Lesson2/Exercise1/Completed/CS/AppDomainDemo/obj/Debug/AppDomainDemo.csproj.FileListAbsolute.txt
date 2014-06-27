@@ -1,0 +1,4 @@
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter08\Lesson2\Exercise1\Completed\CS\AppDomainDemo\bin\Debug\AppDomainDemo.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter08\Lesson2\Exercise1\Completed\CS\AppDomainDemo\bin\Debug\AppDomainDemo.pdb
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter08\Lesson2\Exercise1\Completed\CS\AppDomainDemo\obj\Debug\AppDomainDemo.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter08\Lesson2\Exercise1\Completed\CS\AppDomainDemo\obj\Debug\AppDomainDemo.pdb

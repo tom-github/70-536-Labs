@@ -1,0 +1,5 @@
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise2\Completed\CS\SortString\bin\Debug\SortString.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise2\Completed\CS\SortString\bin\Debug\SortString.pdb
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise2\Completed\CS\SortString\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise2\Completed\CS\SortString\obj\Debug\SortString.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise2\Completed\CS\SortString\obj\Debug\SortString.pdb

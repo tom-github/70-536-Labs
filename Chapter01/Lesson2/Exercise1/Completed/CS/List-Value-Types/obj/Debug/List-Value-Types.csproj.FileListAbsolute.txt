@@ -1,0 +1,14 @@
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\bin\Debug\List-Value-Types.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\bin\Debug\List-Value-Types.pdb
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\List-Value-Types.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\List-Value-Types.pdb
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\bin\Debug\List-Value-Types.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\bin\Debug\List-Value-Types.pdb
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\List-Value-Types.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\List-Value-Types.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\bin\Debug\List-Value-Types.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\bin\Debug\List-Value-Types.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\List-Value-Types.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\List-Value-Types.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson2\Exercise1\Completed\CS\List-Value-Types\obj\Debug\List-Value-Types.pdb

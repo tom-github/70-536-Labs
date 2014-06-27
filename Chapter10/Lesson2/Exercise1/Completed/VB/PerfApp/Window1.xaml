@@ -1,0 +1,9 @@
+﻿<Window x:Class="Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="300">
+    <Grid>
+        <Label Height="28" Margin="92,34,66,0" Name="counterLabel" VerticalAlignment="Top"></Label>
+        <Button Height="23" Margin="116,0,86,76" Name="counterButton" VerticalAlignment="Bottom">Button</Button>
+    </Grid>
+</Window>

@@ -1,0 +1,32 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Math" priority="2" />
+      <Item value="new" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4BAA0CF1-ADBF-443C-B305-2512876F3760/f:Math.cs" caret="248" fromTop="12" />
+      <File id="d:&amp;/f:Class1.cs/l:C!?Users?eferreira?Documents?Microsoft Press?MCTS Self-Paced Training Kit Exam 70-536_2E?Code?Chapter13?Lesson2?Exercise1?Completed?CS?MathLibrary?Class1.cs" caret="157" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4BAA0CF1-ADBF-443C-B305-2512876F3760/f:Math.cs" caret="0" fromTop="0" />
+      <File id="4BAA0CF1-ADBF-443C-B305-2512876F3760/f:Math.cs" caret="216" fromTop="11" />
+      <File id="d:&amp;/f:Class1.cs/l:C!?Users?eferreira?Documents?Microsoft Press?MCTS Self-Paced Training Kit Exam 70-536_2E?Code?Chapter13?Lesson2?Exercise1?Completed?CS?MathLibrary?Class1.cs" caret="173" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

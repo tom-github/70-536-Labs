@@ -1,0 +1,29 @@
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\bin\Debug\Speaker.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\bin\Debug\Speaker.pdb
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\bin\Debug\Interop.SpeechLib.dll
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Interop.SpeechLib.dll
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.csproj.ResolveComReference.cache
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Window1.baml
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Window1.g.cs
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\App.g.cs
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker_MarkupCompile.cache
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.g.resources
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.Properties.Resources.resources
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.csproj.GenerateResource.Cache
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\bin\Debug\Speaker.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\bin\Debug\Speaker.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\bin\Debug\Interop.SpeechLib.dll
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Interop.SpeechLib.dll
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.csproj.ResolveComReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Window1.baml
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Window1.g.cs
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\App.g.cs
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker_MarkupCompile.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.g.resources
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.Properties.Resources.resources
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.csproj.GenerateResource.Cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter13\Lesson1\Exercise1\Completed\CS\Speaker\obj\Debug\Speaker.pdb

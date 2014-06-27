@@ -1,0 +1,7 @@
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter06\Lesson1\Exercise2\Completed\CS\PieChart\bin\Debug\PieChart.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter06\Lesson1\Exercise2\Completed\CS\PieChart\bin\Debug\PieChart.pdb
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter06\Lesson1\Exercise2\Completed\CS\PieChart\obj\Debug\PieChart.Form1.resources
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter06\Lesson1\Exercise2\Completed\CS\PieChart\obj\Debug\PieChart.Properties.Resources.resources
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter06\Lesson1\Exercise2\Completed\CS\PieChart\obj\Debug\PieChart.csproj.GenerateResource.Cache
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter06\Lesson1\Exercise2\Completed\CS\PieChart\obj\Debug\PieChart.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter06\Lesson1\Exercise2\Completed\CS\PieChart\obj\Debug\PieChart.pdb

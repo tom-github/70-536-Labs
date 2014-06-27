@@ -1,0 +1,9 @@
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise3\Completed\CS\ViewFile\bin\Debug\ViewFile.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise3\Completed\CS\ViewFile\bin\Debug\ViewFile.pdb
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise3\Completed\CS\ViewFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise3\Completed\CS\ViewFile\obj\Debug\ViewFile.Form1.resources
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise3\Completed\CS\ViewFile\obj\Debug\ViewFile.Properties.Resources.resources
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise3\Completed\CS\ViewFile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise3\Completed\CS\ViewFile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise3\Completed\CS\ViewFile\obj\Debug\ViewFile.exe
+C:\Users\eferreira\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-536_2E\Code\Chapter01\Lesson2\Exercise3\Completed\CS\ViewFile\obj\Debug\ViewFile.pdb

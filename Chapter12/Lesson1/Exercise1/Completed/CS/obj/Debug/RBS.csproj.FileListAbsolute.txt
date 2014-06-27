@@ -1,0 +1,6 @@
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter12\Lesson1\Exercise1\Completed\CS\bin\Debug\RBS.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter12\Lesson1\Exercise1\Completed\CS\bin\Debug\RBS.pdb
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter12\Lesson1\Exercise1\Completed\CS\obj\Debug\DeclarativeRBS.Form1.resources
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter12\Lesson1\Exercise1\Completed\CS\obj\Debug\RBS.csproj.GenerateResource.Cache
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter12\Lesson1\Exercise1\Completed\CS\obj\Debug\RBS.exe
+C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter12\Lesson1\Exercise1\Completed\CS\obj\Debug\RBS.pdb

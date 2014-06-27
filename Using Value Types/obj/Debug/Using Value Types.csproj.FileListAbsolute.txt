@@ -1,0 +1,6 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Value Types\bin\Debug\Using Value Types.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Value Types\bin\Debug\Using Value Types.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Value Types\bin\Debug\Using Value Types.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Value Types\obj\Debug\Using Value Types.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Value Types\obj\Debug\Using Value Types.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Using Value Types\obj\Debug\Using Value Types.pdb
