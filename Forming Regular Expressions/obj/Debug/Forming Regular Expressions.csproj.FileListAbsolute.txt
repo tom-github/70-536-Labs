@@ -1,0 +1,6 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Forming Regular Expressions\obj\Debug\Forming Regular Expressions.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Forming Regular Expressions\bin\Debug\Forming Regular Expressions.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Forming Regular Expressions\bin\Debug\Forming Regular Expressions.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Forming Regular Expressions\bin\Debug\Forming Regular Expressions.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Forming Regular Expressions\obj\Debug\Forming Regular Expressions.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Forming Regular Expressions\obj\Debug\Forming Regular Expressions.pdb

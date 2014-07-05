@@ -1,0 +1,5 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Reading and Writing Files and Streams\bin\Debug\Reading and Writing Files and Streams.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Reading and Writing Files and Streams\bin\Debug\Reading and Writing Files and Streams.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Reading and Writing Files and Streams\bin\Debug\Reading and Writing Files and Streams.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Reading and Writing Files and Streams\obj\Debug\Reading and Writing Files and Streams.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Reading and Writing Files and Streams\obj\Debug\Reading and Writing Files and Streams.pdb

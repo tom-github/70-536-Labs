@@ -1,0 +1,6 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Working with the File System\bin\Debug\Working with the File System.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Working with the File System\bin\Debug\Working with the File System.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Working with the File System\bin\Debug\Working with the File System.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Working with the File System\obj\Debug\Working with the File System.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Working with the File System\obj\Debug\Working with the File System.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Working with the File System\obj\Debug\Working with the File System.pdb

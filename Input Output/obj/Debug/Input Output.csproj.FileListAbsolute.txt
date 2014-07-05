@@ -1,0 +1,6 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Input Output\obj\Debug\Input Output.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Input Output\bin\Debug\Input Output.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Input Output\bin\Debug\Input Output.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Input Output\bin\Debug\Input Output.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Input Output\obj\Debug\Input Output.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Input Output\obj\Debug\Input Output.pdb

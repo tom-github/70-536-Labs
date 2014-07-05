@@ -365,6 +365,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Converting", "Chapter01\Les
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Value Types", "Using Value Types\Using Value Types.csproj", "{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forming Regular Expressions", "Forming Regular Expressions\Forming Regular Expressions.csproj", "{3D5C65CE-268F-43F6-BA31-F397966D55BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -635,6 +637,10 @@ Global
 		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -805,5 +811,6 @@ Global
 		{5D7B8CBD-CF86-4E27-9A52-9F698F029073} = {BAB84EFC-4B5D-41ED-952D-E9EE7DE4A22F}
 		{6A362F61-BDF1-43F2-9EE3-EDB2A3D0DFE5} = {06BDE187-65F2-4D5B-87E4-361EA6DB2304}
 		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0} = {13FE5590-F723-472C-9CE3-4BB21091B853}
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF} = {B0FEF360-6741-439E-91B4-DC9B8A700F34}
 	EndGlobalSection
 EndGlobal

@@ -371,6 +371,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructing Classes", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converting Between Types", "Converting Between Types\Converting Between Types.csproj", "{53CF9969-1A20-4BE6-9C6D-79C88BD82750}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working with the File System", "Working with the File System\Working with the File System.csproj", "{F502A9C9-A424-47CD-9A14-AF8C5193535F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading and Writing Files and Streams", "Reading and Writing Files and Streams\Reading and Writing Files and Streams.csproj", "{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -653,6 +657,14 @@ Global
 		{53CF9969-1A20-4BE6-9C6D-79C88BD82750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53CF9969-1A20-4BE6-9C6D-79C88BD82750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53CF9969-1A20-4BE6-9C6D-79C88BD82750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F502A9C9-A424-47CD-9A14-AF8C5193535F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F502A9C9-A424-47CD-9A14-AF8C5193535F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F502A9C9-A424-47CD-9A14-AF8C5193535F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F502A9C9-A424-47CD-9A14-AF8C5193535F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -826,5 +838,7 @@ Global
 		{94DE659A-33AF-4FFB-A055-77833B426CA7} = {D6A6972D-3E2F-4BB3-9819-23F05DBD4090}
 		{FBE61ACA-5611-4097-87B6-AB99D7A5720B} = {495FE7A3-2C6B-4B71-B231-D79F15985CD9}
 		{53CF9969-1A20-4BE6-9C6D-79C88BD82750} = {08C8004E-43A4-417F-ABA1-77C3D93B7182}
+		{F502A9C9-A424-47CD-9A14-AF8C5193535F} = {7E70C636-B628-4899-B4A5-E0AE3E3E8055}
+		{917E00BD-6F67-4B23-A6A0-5BD58766A8DF} = {7BC1C892-F708-499C-97E2-8E4CF1C888A2}
 	EndGlobalSection
 EndGlobal
