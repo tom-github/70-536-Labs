@@ -1,0 +1,12 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Constructing Classes\bin\Debug\Constructing Classes.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Constructing Classes\bin\Debug\Constructing Classes.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Constructing Classes\bin\Debug\Constructing Classes.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Constructing Classes\obj\Debug\Constructing Classes.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Constructing Classes\obj\Debug\Constructing Classes.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Constructing Classes\obj\Debug\Constructing Classes.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson3\Constructing Classes\bin\Debug\Constructing Classes.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson3\Constructing Classes\bin\Debug\Constructing Classes.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson3\Constructing Classes\bin\Debug\Constructing Classes.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson3\Constructing Classes\obj\Debug\Constructing Classes.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson3\Constructing Classes\obj\Debug\Constructing Classes.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson3\Constructing Classes\obj\Debug\Constructing Classes.pdb

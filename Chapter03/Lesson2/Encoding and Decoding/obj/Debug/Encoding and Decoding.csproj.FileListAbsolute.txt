@@ -1,0 +1,6 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Encoding and Decoding\bin\Debug\Encoding and Decoding.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Encoding and Decoding\bin\Debug\Encoding and Decoding.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Encoding and Decoding\bin\Debug\Encoding and Decoding.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Encoding and Decoding\obj\Debug\Encoding and Decoding.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Encoding and Decoding\obj\Debug\Encoding and Decoding.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Encoding and Decoding\obj\Debug\Encoding and Decoding.pdb

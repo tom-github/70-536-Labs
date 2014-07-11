@@ -1,0 +1,6 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Generic Collections\obj\Debug\Generic Collections.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Generic Collections\bin\Debug\Generic Collections.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Generic Collections\bin\Debug\Generic Collections.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Generic Collections\bin\Debug\Generic Collections.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Generic Collections\obj\Debug\Generic Collections.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Generic Collections\obj\Debug\Generic Collections.pdb

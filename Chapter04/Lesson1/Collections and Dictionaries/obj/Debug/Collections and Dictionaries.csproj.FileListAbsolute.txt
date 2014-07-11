@@ -1,0 +1,6 @@
+E:\Desenvolvimento\GitHub\70-536-Labs\Collections and Dictionaries\bin\Debug\Collections and Dictionaries.exe.config
+E:\Desenvolvimento\GitHub\70-536-Labs\Collections and Dictionaries\bin\Debug\Collections and Dictionaries.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Collections and Dictionaries\bin\Debug\Collections and Dictionaries.pdb
+E:\Desenvolvimento\GitHub\70-536-Labs\Collections and Dictionaries\obj\Debug\Collections and Dictionaries.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\GitHub\70-536-Labs\Collections and Dictionaries\obj\Debug\Collections and Dictionaries.exe
+E:\Desenvolvimento\GitHub\70-536-Labs\Collections and Dictionaries\obj\Debug\Collections and Dictionaries.pdb

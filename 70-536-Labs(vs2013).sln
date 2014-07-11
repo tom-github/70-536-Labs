@@ -363,17 +363,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion", "Chapter01\Les
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Converting", "Chapter01\Lesson4\Exercise2\Completed\VB\Converting\Converting.vbproj", "{6A362F61-BDF1-43F2-9EE3-EDB2A3D0DFE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Value Types", "Using Value Types\Using Value Types.csproj", "{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructing Classes", "Chapter01\Lesson3\Constructing Classes\Constructing Classes.csproj", "{FBE61ACA-5611-4097-87B6-AB99D7A5720B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Common Reference Types", "Using Common Reference Types\Using Common Reference Types.csproj", "{94DE659A-33AF-4FFB-A055-77833B426CA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converting Between Types", "Chapter01\Lesson4\Converting Between Types\Converting Between Types.csproj", "{53CF9969-1A20-4BE6-9C6D-79C88BD82750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructing Classes", "Constructing Classes\Constructing Classes.csproj", "{FBE61ACA-5611-4097-87B6-AB99D7A5720B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working with the File System", "Chapter02\Lesson1\Working with the File System\Working with the File System.csproj", "{F502A9C9-A424-47CD-9A14-AF8C5193535F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converting Between Types", "Converting Between Types\Converting Between Types.csproj", "{53CF9969-1A20-4BE6-9C6D-79C88BD82750}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading and Writing Files and Streams", "Chapter02\Lesson2\Reading and Writing Files and Streams\Reading and Writing Files and Streams.csproj", "{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working with the File System", "Working with the File System\Working with the File System.csproj", "{F502A9C9-A424-47CD-9A14-AF8C5193535F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forming Regular Expressions", "Chapter03\Lesson1\Forming Regular Expressions\Forming Regular Expressions.csproj", "{3D5C65CE-268F-43F6-BA31-F397966D55BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading and Writing Files and Streams", "Reading and Writing Files and Streams\Reading and Writing Files and Streams.csproj", "{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encoding and Decoding", "Chapter03\Lesson2\Encoding and Decoding\Encoding and Decoding.csproj", "{CA3A6F34-48A1-473F-9F59-7AB569C5A98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections and Dictionaries", "Chapter04\Lesson1\Collections and Dictionaries\Collections and Dictionaries.csproj", "{9EB78490-4B80-46BA-8DBB-5E9E296A3F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Collections", "Chapter04\Lesson2\Generic Collections\Generic Collections.csproj", "{230AA325-D76C-4D8F-8A19-666311183F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Value Types", "Chapter01\Lesson1\Using Value Types\Using Value Types.csproj", "{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Common Reference Types", "Chapter01\Lesson2\Using Common Reference Types\Using Common Reference Types.csproj", "{94DE659A-33AF-4FFB-A055-77833B426CA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -641,14 +649,6 @@ Global
 		{6A362F61-BDF1-43F2-9EE3-EDB2A3D0DFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A362F61-BDF1-43F2-9EE3-EDB2A3D0DFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A362F61-BDF1-43F2-9EE3-EDB2A3D0DFE5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{94DE659A-33AF-4FFB-A055-77833B426CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{94DE659A-33AF-4FFB-A055-77833B426CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{94DE659A-33AF-4FFB-A055-77833B426CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{94DE659A-33AF-4FFB-A055-77833B426CA7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FBE61ACA-5611-4097-87B6-AB99D7A5720B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FBE61ACA-5611-4097-87B6-AB99D7A5720B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE61ACA-5611-4097-87B6-AB99D7A5720B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -665,6 +665,30 @@ Global
 		{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{917E00BD-6F67-4B23-A6A0-5BD58766A8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3A6F34-48A1-473F-9F59-7AB569C5A98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3A6F34-48A1-473F-9F59-7AB569C5A98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3A6F34-48A1-473F-9F59-7AB569C5A98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3A6F34-48A1-473F-9F59-7AB569C5A98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB78490-4B80-46BA-8DBB-5E9E296A3F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB78490-4B80-46BA-8DBB-5E9E296A3F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB78490-4B80-46BA-8DBB-5E9E296A3F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB78490-4B80-46BA-8DBB-5E9E296A3F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230AA325-D76C-4D8F-8A19-666311183F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230AA325-D76C-4D8F-8A19-666311183F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230AA325-D76C-4D8F-8A19-666311183F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230AA325-D76C-4D8F-8A19-666311183F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DE659A-33AF-4FFB-A055-77833B426CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DE659A-33AF-4FFB-A055-77833B426CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DE659A-33AF-4FFB-A055-77833B426CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DE659A-33AF-4FFB-A055-77833B426CA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -834,11 +858,15 @@ Global
 		{88C28499-9D5C-4DEA-BEA6-E4661F64DD19} = {43357A6D-3F2C-4814-89E0-34EED621E15E}
 		{5D7B8CBD-CF86-4E27-9A52-9F698F029073} = {BAB84EFC-4B5D-41ED-952D-E9EE7DE4A22F}
 		{6A362F61-BDF1-43F2-9EE3-EDB2A3D0DFE5} = {06BDE187-65F2-4D5B-87E4-361EA6DB2304}
-		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0} = {13FE5590-F723-472C-9CE3-4BB21091B853}
-		{94DE659A-33AF-4FFB-A055-77833B426CA7} = {D6A6972D-3E2F-4BB3-9819-23F05DBD4090}
 		{FBE61ACA-5611-4097-87B6-AB99D7A5720B} = {495FE7A3-2C6B-4B71-B231-D79F15985CD9}
 		{53CF9969-1A20-4BE6-9C6D-79C88BD82750} = {08C8004E-43A4-417F-ABA1-77C3D93B7182}
 		{F502A9C9-A424-47CD-9A14-AF8C5193535F} = {7E70C636-B628-4899-B4A5-E0AE3E3E8055}
 		{917E00BD-6F67-4B23-A6A0-5BD58766A8DF} = {7BC1C892-F708-499C-97E2-8E4CF1C888A2}
+		{3D5C65CE-268F-43F6-BA31-F397966D55BF} = {B0FEF360-6741-439E-91B4-DC9B8A700F34}
+		{CA3A6F34-48A1-473F-9F59-7AB569C5A98B} = {A0A93E3B-52BD-40A5-B174-2738F6E3E350}
+		{9EB78490-4B80-46BA-8DBB-5E9E296A3F93} = {8E2330D2-6128-415E-B8DE-7C36EE2AD3AC}
+		{230AA325-D76C-4D8F-8A19-666311183F92} = {101D9CA8-18C4-4114-B0A0-2D48450B59E5}
+		{609E36A6-F253-4B3C-AB7F-E52FAFB926E0} = {13FE5590-F723-472C-9CE3-4BB21091B853}
+		{94DE659A-33AF-4FFB-A055-77833B426CA7} = {D6A6972D-3E2F-4BB3-9819-23F05DBD4090}
 	EndGlobalSection
 EndGlobal
