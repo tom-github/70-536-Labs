@@ -1,5 +1,0 @@
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\bin\Debug\Conversion.exe
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\bin\Debug\Conversion.pdb
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\obj\Debug\Conversion.exe
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson4\Exercise1\Completed\CS\Converting\obj\Debug\Conversion.pdb

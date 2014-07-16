@@ -4,6 +4,3 @@ E:\Desenvolvimento\GitHub\70-536-Labs\Converting Between Types\bin\Debug\Convert
 E:\Desenvolvimento\GitHub\70-536-Labs\Converting Between Types\bin\Debug\Converting Between Types.pdb
 E:\Desenvolvimento\GitHub\70-536-Labs\Converting Between Types\obj\Debug\Converting Between Types.exe
 E:\Desenvolvimento\GitHub\70-536-Labs\Converting Between Types\obj\Debug\Converting Between Types.pdb
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson4\Converting Between Types\bin\Debug\Converting Between Types.exe.config
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson4\Converting Between Types\obj\Debug\Converting Between Types.exe
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson4\Converting Between Types\obj\Debug\Converting Between Types.pdb

@@ -7,8 +7,3 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesso
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson1\Exercise1\Completed\CS\CreateStruct\bin\Debug\CreateStruct.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson1\Exercise1\Completed\CS\CreateStruct\obj\Debug\CreateStruct.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\70-536-Labs\Chapter01\Lesson1\Exercise1\Completed\CS\CreateStruct\obj\Debug\CreateStruct.pdb
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson1\Exercise1\Completed\CS\CreateStruct\bin\Debug\CreateStruct.exe
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson1\Exercise1\Completed\CS\CreateStruct\bin\Debug\CreateStruct.pdb
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson1\Exercise1\Completed\CS\CreateStruct\obj\Debug\CreateStruct.csprojResolveAssemblyReference.cache
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson1\Exercise1\Completed\CS\CreateStruct\obj\Debug\CreateStruct.exe
-E:\Desenvolvimento\GitHub\70-536-Labs\Chapter01\Lesson1\Exercise1\Completed\CS\CreateStruct\obj\Debug\CreateStruct.pdb
